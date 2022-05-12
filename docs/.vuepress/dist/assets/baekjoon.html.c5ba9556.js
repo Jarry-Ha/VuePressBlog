@@ -1,0 +1,1 @@
+const e={key:"v-453f49b3",path:"/reference/algorithm/baekjoon.html",title:"\uBC31\uC900\uC54C\uACE0\uB9AC\uC998",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\uC815\uC6D0\uC0AC",slug:"\u110C\u1165\u11BC\u110B\u116F\u11AB\u1109\u1161",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"reference/algorithm/baekjoon.md"};export{e as data};
