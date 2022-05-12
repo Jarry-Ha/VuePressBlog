@@ -21,5 +21,5 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  plugins: ['@vuepress/pwa']
+  plugins: ['@vuepress/pwa'],
 };
